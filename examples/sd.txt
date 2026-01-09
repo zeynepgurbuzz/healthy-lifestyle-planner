@@ -1,0 +1,1 @@
+{"week": "1", "items": {"Sports": ["Yoga", "Strength Training"], "Food Plans": ["Keto Diet", "Intermittent Fasting", "Flexitarian Diet", "Paleo Diet", "Mediterranean Diet", "Vegan Diet", "Whole30 Diet"], "Activities": []}}

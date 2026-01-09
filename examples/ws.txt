@@ -1,0 +1,1 @@
+{"Sports": ["Zumba", "Yoga", "Dance", "Legs", null, "Kickboxing", "Rest Day"], "Food Plans": ["Low-Fat Diet", null, "Mediterranean Keto", "Atkins Diet", "Raw Food Diet", "Whole30 Diet", "Keto Diet"], "Activities": ["Dancing", "Photography", "Hanging out with friends", "Pottery", "Bird Watching", "Learning a New Skill", "Cooking"]}
