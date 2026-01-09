@@ -1,4 +1,3 @@
-```markdown
 # 🥗 Healthy Lifestyle Planner
 
 **Healthy Lifestyle Planner** is a desktop GUI application built with **Python (Tkinter)**. It allows users to create personalized weekly plans by selecting sports, meal plans, and daily activities either manually or randomly.
